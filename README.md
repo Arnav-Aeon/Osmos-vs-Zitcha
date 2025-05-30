@@ -53,7 +53,6 @@ As retail media becomes increasingly vital for omnichannel growth, Osmos and Zit
 ## 👤 Author
 
 **Arnav Pandita**  
-Undergraduate, Engineering Physics  
 Indian Institute of Technology Guwahati  
 📧 p.arnav@iitg.ac.in
 
